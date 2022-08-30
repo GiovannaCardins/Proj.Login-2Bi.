@@ -17,7 +17,7 @@ class SessionController{
     logar(req, res){
         //? Define um usuário:
         let user = {
-            email: 'ceciliabtriz@gmail.com',
+            email: 'ojuara@gmail.com',
             password: '123456'
         };
 
